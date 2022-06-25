@@ -1,7 +1,5 @@
-# duke-course
+# duke-course Technical Discussion
 This is the repo for Duke's Cloud Computing Foundations Course
-
-# Technical Discussion
 
 ### Gist
 
